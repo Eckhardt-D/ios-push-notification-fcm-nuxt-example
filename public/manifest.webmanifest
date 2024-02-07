@@ -1,0 +1,13 @@
+{
+  "display": "standalone",
+  "name": "Pusha",
+  "short_name": "Pusha",
+  "start_url": ".",
+  "icons": [
+    {
+      "type": "image/png",
+      "sizes": "512x512",
+      "src": "/icon.png"
+    }
+  ]
+}
